@@ -15,7 +15,7 @@ import java.lang.*;
 import java.util.*;
 import java.io.*;
 
-//Lab written by Ted (Edward) Schultz
+// Lab written by Ted (Edward) Schultz
 // May 20, 2021
 // Professor Mood
 
